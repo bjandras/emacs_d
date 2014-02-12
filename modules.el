@@ -1,0 +1,7 @@
+(require 'switch-to-other-buffer)
+(require 'revert-all-buffers)
+(require 'my-python-mode)
+(require 'my-c-mode)
+(require 'lua-mode)
+(require 'julia-mode)
+(require 'go-mode-load)
