@@ -1,2 +1,3 @@
-auto-save-list
+auto-save-list/
+elpa/
 local/*.el
