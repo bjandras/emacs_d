@@ -22,6 +22,9 @@
 (when (file-exists-p modules-file)
   (load modules-file))
 
+;; load custom settings (lisp/settings.el)
+(load-library "settings")
+
 ;; load all user local code
 ;;
 (when (file-exists-p local-dir)
