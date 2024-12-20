@@ -10,6 +10,8 @@
 
 (add-to-list 'load-path (expand-file-name "lisp" emacs-dir))
 
+(setq custom-theme-directory (expand-file-name "themes" emacs-dir))
+
 ;; define and load customizations
 ;;
 (setq custom-file (expand-file-name "custom.el" emacs-dir))
