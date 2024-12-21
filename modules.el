@@ -5,5 +5,3 @@
 (require 'my-python-mode)
 (require 'personal-c-style)
 (require 'flowmill-c-style)
-(require 'rust-mode)
-(require 'nim-mode)
